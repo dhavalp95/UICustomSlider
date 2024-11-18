@@ -12,13 +12,24 @@
 
 ## Installation 
 
-### Swift Package Manager
+### Swift Package Manager (SPM)
 
-First of all add UICustomSlider in your package Dependencies (Projec->Package Dependencies->press plush + icon and enter follsoing url)
+  - Go to File -> Swift Packages -> Add Package Dependency...
+  - Then search for https://github.com/dhavalp95/UICustomSlider
+  - And choose the version you want
 
 ```
 https://github.com/dhavalp95/UICustomSlider
 ```
+
+### CocoaPods
+
+Simply add the following line to your Podfile
+``` ruby
+pod 'UICustomSlider'
+```
+
+
 
 ## Usage
 
