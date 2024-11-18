@@ -28,6 +28,7 @@
 		7F0980012CEB1445009282D0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		7F0980022CEB1445009282D0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7F09800B2CEB14EE009282D0 /* UIColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorExtension.swift; sourceTree = "<group>"; };
+		7F0980202CEB6749009282D0 /* UICustomSlider.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = UICustomSlider.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +45,7 @@
 		7F097FD52CEB13BF009282D0 = {
 			isa = PBXGroup;
 			children = (
+				7F0980202CEB6749009282D0 /* UICustomSlider.podspec */,
 				7F097FF82CEB1443009282D0 /* Sources */,
 				7F0980032CEB1445009282D0 /* UICustomSlider */,
 				7F097FDF2CEB13BF009282D0 /* Products */,
